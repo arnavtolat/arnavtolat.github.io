@@ -1,5 +1,8 @@
 theme: jekyll-theme-hacker
 title: Arnav Tolat
 description: CS/Math/Stats Junior At Dartmouth Looking to Build Impactful Products 
+plugins:
+  - jemoji
+  
 github:
   is_project_page: false
