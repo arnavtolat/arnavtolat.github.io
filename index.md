@@ -1,5 +1,8 @@
-:bust_in_silhouette: Arnav Tolat
-:mortar_board: Junior at Dartmotuh double-majoring in CS & Mathematical Data Science
+:bust_in_silhouette: Arnav Tolat <br>
+:mortar_board: Junior at Dartmouth College double-majoring in CS & Mathematical Data Science <br>
+:computer: Lanaguages: Python, C, Java, R, SQL, VHDL
+📦: Packages: NumPy, Pandas, PyMySQL, TKinter, Sk-Learn, MatplotLib, Seaborn, TensorFlow (learning) 
+
 I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
 
 <!--- #  You can use the [editor on GitHub](https://github.com/arnavtolat/atolat.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
