@@ -6,7 +6,6 @@ Hey! I'm Arnav. In short,  <br>
 
 In addition to my technical skillset, I have experience leading large teams, including by founding an organizing my town's first TEDx event, being on the state leadership boards of multiple student groups, and on the leadership team of the [Dartmouth Investment and Philanthropy Program.](www.dippnh.org) 
 
-[Link](url)
 I've been recognized as a member of the Dartmouth College Honor List, as a National AP Scholar, National Merit Scholar, Warrior For Life, and Martin Luther King Jr. Scholar, and have several commendations from my township's council for work done as a leader in various community service and community organizing roles. 
 
 <!---
