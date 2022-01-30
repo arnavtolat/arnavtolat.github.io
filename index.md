@@ -4,16 +4,13 @@ Hey! I'm Arnav. In short,  <br>
 :computer: Python, C, Java, R, SQL, VHDL, MATLAB <br>
 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, TensorFlow
 
+In addition to my technical skillset, I have experience leading large teams, including by founding an organizing my town's first TEDx event, being on the state leadership boards of multiple student groups, and on the leadership team of the Dartmouth Investment and Philanthropy Program. 
+[Link](url)
+I've been recognized as a member of the Dartmouth College Honor List, as a National AP Scholar, National Merit Scholar, Warrior For Life, and Martin Luther King Jr. Scholar, and have several commendations from my township's council for work done as a leader in various community service and community organizing roles. 
+
 <!---
 I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
-I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
+
 --->
 <!--- #  You can use the [editor on GitHub](https://github.com/arnavtolat/atolat.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 --->
