@@ -8,7 +8,7 @@ In addition to my technical skillset, I have experience leading large teams, inc
 
 I've been recognized as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Martin Luther King Jr. Scholar, and have earned several commendations from my township's council for work done as a leader in various community service and community organizing roles. 
 
-You can contact me via [Linkedin](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](github.com/arnavtolat) 
+You can contact me via [Linkedin](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat) 
 
 <!---
 I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
