@@ -2,8 +2,8 @@ theme: jekyll-theme-hacker
 github:
   is_project_page: false
 
-name:""
-title: null
+name:"Arnav Tolat"
+title: Arnav Tolat
 description: Dartmouth Junior Studying CS, Math, and Statistics
 plugins:
   - jemoji
