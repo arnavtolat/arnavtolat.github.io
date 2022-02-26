@@ -6,7 +6,7 @@ Hey! I'm Arnav. In short,  <br>
 
 I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org) and [The Dartmouth.](https://www.thedartmouth.com)
 
-I've been recognized for my achievements as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Dr. Martin Luther King Jr. Foundation Scholar, and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
+I've been recognized for my achievements as part of the [Dartmouth College Honor List](https://dartmouth.smartcatalogiq.com/en/current/orc/Regulations/Undergraduate-Study/Honors/Honor-List), and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Dr. Martin Luther King Jr. Foundation Scholar, and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
 
 I bring a diverse set of past internship experience spanning from policy at the UN, to journalism at a local newspaper, to data analyst work at a financial firm. Having discovered a passion for computer science in college, I am interested in exploring the worlds of software engineering and product management in a Summer 2022 internship. I am a US citizen who is open to working either remotely or in-person in the NYC, SF, LA, or Seattle metropolitan areas. 
 
