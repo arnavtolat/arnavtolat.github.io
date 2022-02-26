@@ -8,7 +8,7 @@ I have experience leading large teams, including by founding and organizing the 
 
 I've been recognized for my achievements as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Dr. Martin Luther King Jr. Foundation Scholar, and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
 
-I have past internship experience across journalism, business development, and data science, and am interested in exploring the worlds of software engineering and product management in a Summer 2022 internship. I am a US citizen who is open to working either remotely or in-person in the NYC, SF, LA, or Seattle metropolitan areas. 
+I have past internship experience in journalism, business development, and data, and am interested in exploring the worlds of software engineering and product management in a Summer 2022 internship. I am a US citizen who is open to working either remotely or in-person in the NYC, SF, LA, or Seattle metropolitan areas. 
 
 You can contact me via [Linkedin](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat). Looking forward to connecting! 
 
