@@ -4,7 +4,7 @@ Hey! I'm Arnav. In short,  <br>
 :computer: Python, C, Java, R, SQL, VHDL, MATLAB <br>
 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK
 
-I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program.](https://dippnh.org) and [The Dartmouth](https://www.thedartmouth.com)
+I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org) and [The Dartmouth.](https://www.thedartmouth.com)
 
 I've been recognized for my achievements as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Dr. Martin Luther King Jr. Foundation Scholar, and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
 
