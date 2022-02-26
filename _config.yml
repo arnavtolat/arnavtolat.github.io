@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 is_project_page: false
 title: Arnav Tolat 
-description: I'm a Dartmouth Junior Studying CS, Math, and Statistics With a Passion for Impact 
+description: Dartmouth Junior Studying CS, Math, and Statistics
 plugins:
   - jemoji
   
