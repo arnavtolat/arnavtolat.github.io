@@ -4,11 +4,13 @@ Hey! I'm Arnav. In short,  <br>
 :computer: Python, C, Java, R, SQL, VHDL, MATLAB <br>
 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK
 
-In addition to my technical skillset, I have experience leading large teams, including by founding an organizing my town's first TEDx event, being on the state leadership boards of multiple student groups, and on the leadership team of the [Dartmouth Investment and Philanthropy Program.](https://dippnh.org) 
+I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program.](https://dippnh.org) and [The Dartmouth](https://www.thedartmouth.com)
 
-I've been recognized as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Martin Luther King Jr. Scholar, and have earned several commendations from my township's council for work done as a leader in various community service and community organizing roles. 
+I've been recognized for my achievements as part of the Dartmouth College Honor List, and as a National AP Scholar, National Merit Scholar, Warrior For Life, and Dr. Martin Luther King Jr. Foundation Scholar, and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
 
-You can contact me via [Linkedin](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat) 
+I have past internship experience across journalism, business development, and data science, and am interested in exploring the worlds of software engineering and product management in a Summer 2022 internship. I am a US citizen who is open to working either remotely or in-person in the NYC, SF, LA, or Seattle metropolitan areas. 
+
+You can contact me via [Linkedin](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat). Looking forward to connecting! 
 
 <!---
 I'm an undergraduate junior at Dartmouth College pursuing a double major in Computer Science and Mathematical Data Science, with particular interests in machine learning, natural language processing, and full-stack development. I have experience working in popular languages including Python, Java, and C, and with a variety of statistical packages and languages. 
