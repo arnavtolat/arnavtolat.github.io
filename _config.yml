@@ -2,7 +2,7 @@ github:
   is_project_page: false
 
 title: Arnav Tolat
-description: Dartmouth Junior Studying CS, Math, and Statistics
+description: Arnav Tolat - Dartmouth Junior Studying CS, Math, and Statistics
 plugins:
   - jemoji
   - jekyll-remote-theme
