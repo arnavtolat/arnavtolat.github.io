@@ -1,14 +1,10 @@
 theme: jekyll-theme-hacker
 github:
   is_project_page: false
-  
-is_project_page: false
+
+name:""
 title: null
 description: Dartmouth Junior Studying CS, Math, and Statistics
 plugins:
   - jemoji
-  
-github:
-  is_project_page: false
-  
-  
+ 
