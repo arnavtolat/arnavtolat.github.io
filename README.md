@@ -1,4 +1,4 @@
-# repository hosting my personal website - www.atolat.com 
+# repository for hosting www.atolat.com 
 <!---
 hosting 
 -->
