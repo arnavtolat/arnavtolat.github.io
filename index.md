@@ -1,5 +1,5 @@
 Hey! I'm Arnav. In short,  <br>
-:bust_in_silhouette: Arnav Tolat <br>
+ <!--- :bust_in_silhouette: Arnav Tolat <br> --->
 :mortar_board: Junior ('23) at [Dartmouth College](https://home.dartmouth.edu/) double-majoring in Computer Science and Mathematical Data Science <br>
 :computer: Python, C, Java, R, SQL, VHDL, MATLAB <br>
 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, TensorFlow
