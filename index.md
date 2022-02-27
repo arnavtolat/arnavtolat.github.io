@@ -1,6 +1,6 @@
 Hey! I'm Arnav. In short,  <br>
  <!--- :bust_in_silhouette: Arnav Tolat <br> --->
-:mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) double-majoring in Computer Science and Mathematical Data Science <br>
+:mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) with majors in Computer Science and Mathematical Data Science <br>
 :computer: Python, Java, R, C, JavaScript, VHDL, MATLAB <br>
 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK, Git, Figma, React
 
