@@ -1,5 +1,5 @@
 Hey! I'm Arnav. 
- <!--- In short,  <br>
+ In short,  <br>
  <!--- :bust_in_silhouette: Arnav Tolat <br> --->
 :mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) with majors in Computer Science and Mathematical Data Science <br>
 :computer: Python, Java, R, C, JavaScript, VHDL, MATLAB <br>
@@ -55,4 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
----> --->
+---> 
