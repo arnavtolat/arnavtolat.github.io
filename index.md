@@ -2,7 +2,7 @@ Hey! I'm Arnav. In short,  <br>
  <!--- :bust_in_silhouette: Arnav Tolat <br> --->
 :mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) with majors in Computer Science and Mathematical Data Science <br>
 :computer: Python, Java, R, C, JavaScript, VHDL, MATLAB <br>
-📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK, Git, Figma, React
+ <!--- 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK, Git, Figma, React --->
 
 I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org) and [The Dartmouth.](https://www.thedartmouth.com)
 
