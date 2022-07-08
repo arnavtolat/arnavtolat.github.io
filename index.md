@@ -1,11 +1,11 @@
-Hey! I'm Arnav. 
+<!--- Hey! I'm Arnav. 
  In short,  <br>
  <!--- :bust_in_silhouette: Arnav Tolat <br> --->
-:mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) with majors in Computer Science and Mathematical Data Science <br>
+<!--- :mortar_board: Undergraduate junior at [Dartmouth College](https://home.dartmouth.edu/) (graduating June 2023) with majors in Computer Science and Mathematical Data Science <br>
 :computer: Python, Java, R, C, JavaScript, VHDL, MATLAB <br>
  <!--- 📦 NumPy, Pandas, PyMySQL, TKinter, Scikit-Learn, MatplotLib, Seaborn, NLTK, Git, Figma, React --->
 
-I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org) and [The Dartmouth.](https://www.thedartmouth.com)
+<!--- I have experience leading large teams, including by founding and organizing the first TEDx event in my hometown, working in teams to complete technical projects, and being on the leadership teams of organizations with real-world impact including the [Dartmouth Investment and Philanthropy Program](https://dippnh.org) and [The Dartmouth.](https://www.thedartmouth.com)
 
 I've been recognized for my achievements as part of the [Dartmouth College Honor List](https://dartmouth.smartcatalogiq.com/en/current/orc/Regulations/Undergraduate-Study/Honors/Honor-List), and as a [National AP Scholar](https://apcentral.collegeboard.org/exam-administration-ordering-scores/scores/awards/scholar-awards), [National Merit Scholar](https://www.tapinto.net/towns/franklin-township/articles/franklin-high-school-student-named-national-merit-scholarship-winner), [Warrior For Life](https://www.warrior4life.org), and [Dr. Martin Luther King Jr. Community Foundation Scholar](https://www.ftmlk.org/about.html), and have earned awards and commendations for work done as a leader in various community service and community organizing roles. 
 
@@ -14,7 +14,7 @@ I bring a diverse set of past internship experiences spanning from policy work a
 
 <!--- I am a US citizen who is open to working remotely or in person in the NYC, SF, LA, or Seattle metropolitan areas. --->
 
-You can contact me via [LinkedIn](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat). 
+<!--- You can contact me via [LinkedIn](http://www.linkedin.com/in/tolat) or [email](mailto:arnav.23@dartmouth.edu), and view my Github [here](https://github.com/arnavtolat). --->
 <!--- Looking forward to connecting! --->
 
 <!---
