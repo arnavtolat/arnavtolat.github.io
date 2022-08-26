@@ -1,2 +1,2 @@
 # arnavtolat.github.io
-source for a minimal personal site
+source for a minimal personal site - s/o transmissions
